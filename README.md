@@ -1,4 +1,3 @@
-import os
 
 # Sample data to populate the README (replace with actual generated data in your script)
 dataset_name = "goodreads.csv"
